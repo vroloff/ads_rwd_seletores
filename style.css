@@ -1,0 +1,27 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(46, 45, 45);
+}
+.buttonN {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(46, 45, 45);
+    padding: 20px 20px;
+    border-radius: 2px;
+    background-color: antiquewhite;
+    cursor: pointer;
+    display: inline;
+}
+
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(46, 45, 45);
+    padding: 20px 20px;
+    border-radius: 2px;
+    background-color: antiquewhite;
+    cursor: pointer;
+    display: inline;
+}
+
+.button:hover {
+    background-color: deeppink;
+ }
